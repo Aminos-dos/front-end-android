@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HolaApp</string>
+    <string name="login">Se connecter</string>
+    <string name="descLogin">connecter pour continue</string>
+    <string name="register">S inscrire</string>
+    <string name="descriptionImg1">Apps icon</string>
+    <string name="forget_password">mot de passe oublié?</string>
+    <string name="email">Email:</string>
+    <string name="update">Modifier</string>
+    <string name="password">Mot de passe:</string>
+    <string name="enter_email">Enter l email</string>
+    <string name="enter_password">Enter mot de passe</string>
+    <string name="enter_username">Enter nom d utilisateur</string>
+    <string name="enter_phone">Enter Numero</string>
+    <string name="enter_gender">Genre : </string>
+    <string name="men">Men</string>
+    <string name="description">description:</string>
+    <string name="Fem">Female</string>
+    <string name="name">Nom :</string>
+    <string name="username">Nom utilisateur:</string>
+    <string name="phone">Numero protable :</string>
+    <string name="photo_profile">Photo de profil</string>
+    <string name="enter_name">Enter le nom </string>
+    <string name="descRegister">Inscrire pour continue</string>
+    <string name="resetPassword">Réinitialiser le mot de passe</string>
+    <string name="resetPasswordDesc">Veuillez entrer votre email pour réinitialiser votre mot de passe</string>
+    <string name="send">Envoyer</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="tab_text_1">DISC</string>
+    <string name="tab_text_2">USERS</string>
+</resources>
