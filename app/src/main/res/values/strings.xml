@@ -28,4 +28,5 @@
     <string name="title_activity_chat">ChatActivity</string>
     <string name="tab_text_1">DISC</string>
     <string name="tab_text_2">USERS</string>
+    <string name="entrez_un_message">Entrez un message</string>
 </resources>

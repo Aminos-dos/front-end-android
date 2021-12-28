@@ -13,7 +13,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Chat_app"
         android:usesCleartextTraffic="true">
-        <activity android:name=".UpdateProfileActivity"></activity>
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity android:name=".UpdateProfileActivity" />
         <activity
             android:name=".ConvertationsActivity"
             android:parentActivityName=".FriendsActivity" />

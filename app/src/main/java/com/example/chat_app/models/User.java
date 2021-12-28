@@ -46,6 +46,10 @@ public class User implements Serializable {
         this.gender = gender;
         this.email = email;
     }
+    public User(int id,String username){
+        this.id = id;
+        this.username = username;
+    }
     //getters
     public String getPhoto(){return this.photo;}
     public int getId(){
